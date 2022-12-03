@@ -1,0 +1,23 @@
+   {
+    "name": "Aditya Center",
+    "short_name": "Aditya Center",
+    "icons": [
+        {
+            "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgdWHpB3mbQ9Mmaoj3O6kalJzpc5H6Sxip2dCsLzj1O42bZntq3viJjtP2MPxFkl6xhPchIsDr73_jSbHd8kWIo6P6awUOi68Ounacyw4etHJLPLUdqUjxdlLucCqLFK04LwmuaKAxNuAaMUsNdiI-QNWoy7HnO6R7Q6tuoewhVa108DOxqZLZwKIU7XA/s192/android-chrome-192x192.png",
+            "sizes": "192x192",
+            "type": "image/png",
+            "purpose": "any maskable"
+        },
+        {
+            "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjImAEU15EFeGIU8gFbSeAmMl_i7tj-M4YQMzLp8HTVL7OGacok0SzCctTPNiEPcRIak7HjJTxtbWHKDXIV85eTYlAv-PyIcb95kPlxFY3ybZqDo5mLV6V3l_H1BYImRkyuhCE9Fn7sAO8Q-LslJ7EGdpBIfJMQpj27NKOMQPJTcEfeTOv89ufSoc2Z5g/s512/android-chrome-512x512.png",
+            "sizes": "512x512",
+            "type": "image/png",
+            "purpose": "any maskable"
+        }
+    ],
+    "theme_color": "#ffffff",
+    "background_color": "#ffffff",
+    "display": "standalone",
+    "prefer_related_applications": false,
+  "start_url": "https://blog.adityacenter.in"
+}
